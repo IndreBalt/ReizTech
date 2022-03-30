@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwiKRoSxli9rGIwON2LbRJkwGbWp4wsV+84X7yx/dsTQco/gmW/uy0RMhm62TT4c8+F0qU03/cx3DhMaF6jhsw==",
+  "success": true,
+  "projectFilePath": "D:\\Mokslai 2021\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Indre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

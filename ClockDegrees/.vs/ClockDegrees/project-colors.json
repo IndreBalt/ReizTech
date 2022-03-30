@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cbb80fb-a02d-4dfc-af63-6c0d48c5a942": {
+      "ProjectGuid": "1cbb80fb-a02d-4dfc-af63-6c0d48c5a942",
+      "DisplayName": "ClockDegrees",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
