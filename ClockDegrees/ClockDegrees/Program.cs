@@ -48,7 +48,7 @@ namespace ClockDegrees
                 }
                
                 double timeee = (double)writtenHours + (double)minutes/60;               
-                Console.WriteLine($"Time is: { TimeSpan.FromHours(timeee)}");
+                Console.WriteLine($"Time is: {TimeSpan.FromHours(timeee)}");
 
                 int hoursDegrees = (hours * 30) + (minutes * 1 / 2);
                 int minutesDegrees = (minutes * 6);
