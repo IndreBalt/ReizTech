@@ -14,3 +14,19 @@ D:\Mokslai 2021\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees
 D:\Mokslai 2021\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ref\ClockDegrees.dll
 D:\Mokslai 2021\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.pdb
 D:\Mokslai 2021\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.genruntimeconfig.cache
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.exe
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.deps.json
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.runtimeconfig.json
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.runtimeconfig.dev.json
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.dll
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ref\ClockDegrees.dll
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\bin\Debug\net5.0\ClockDegrees.pdb
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.csproj.AssemblyReference.cache
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.AssemblyInfoInputs.cache
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.AssemblyInfo.cs
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.csproj.CoreCompileInputs.cache
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.dll
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ref\ClockDegrees.dll
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.pdb
+D:\Mokslai 2021\GitHubRepos\Reiz Tech\ReizTech\ClockDegrees\ClockDegrees\obj\Debug\net5.0\ClockDegrees.genruntimeconfig.cache

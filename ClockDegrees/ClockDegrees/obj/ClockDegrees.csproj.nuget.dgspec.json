@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mokslai 2021\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj": {}
+    "D:\\Mokslai 2021\\GitHubRepos\\Reiz Tech\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj": {}
   },
   "projects": {
-    "D:\\Mokslai 2021\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj": {
+    "D:\\Mokslai 2021\\GitHubRepos\\Reiz Tech\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mokslai 2021\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj",
+        "projectUniqueName": "D:\\Mokslai 2021\\GitHubRepos\\Reiz Tech\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj",
         "projectName": "ClockDegrees",
-        "projectPath": "D:\\Mokslai 2021\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj",
+        "projectPath": "D:\\Mokslai 2021\\GitHubRepos\\Reiz Tech\\ReizTech\\ClockDegrees\\ClockDegrees\\ClockDegrees.csproj",
         "packagesPath": "C:\\Users\\Indre\\.nuget\\packages\\",
-        "outputPath": "D:\\Mokslai 2021\\ReizTech\\ClockDegrees\\ClockDegrees\\obj\\",
+        "outputPath": "D:\\Mokslai 2021\\GitHubRepos\\Reiz Tech\\ReizTech\\ClockDegrees\\ClockDegrees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Indre\\AppData\\Roaming\\NuGet\\NuGet.Config",
